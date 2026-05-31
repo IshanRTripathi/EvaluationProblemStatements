@@ -2,13 +2,13 @@
 
 ## **Objective**
 
-Build a system that takes a **voice query** and returns a **text + voice response**.
+Build a system that takes a **voice query** and returns a realtime **text + voice response**.
 
 ---
 
 ## **Problem Statement**
 
-Design a **voice-enabled support assistant for an e-commerce platform (returns & orders)**.
+Design a **voice-enabled realtime support assistant for an e-commerce platform (returns & orders)**.
 
 The system should:
 
